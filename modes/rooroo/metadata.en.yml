@@ -2,5 +2,7 @@ name: "rooroo"
 description: "A sample mode to test marketplace installation"
 type: "mode"
 version: "0.1.0"
+binaryUrl: "https://github.com/NamesMT/Roo-Code-Marketplace/raw/refs/heads/main/rooroo.zip"
+binaryHash: "dJiZUtOfVkFrTEd7orP8hhW11oBffRTc_nLf2bd40a4"
 tags: ["rooroo"]
 author: "marv1nnnnn"
